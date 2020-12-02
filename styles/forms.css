@@ -1,0 +1,12 @@
+body {
+    font: 1em sans-serif;
+    background-color: #AB3C3D;
+    color: #F2E6E6;
+}
+
+.wrapper {
+    border-radius: 3%;
+    width: 50%;
+    padding: 20px;
+    /* background-color: white; */
+}

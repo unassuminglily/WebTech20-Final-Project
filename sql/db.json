@@ -1,0 +1,13 @@
+{
+    "mysqlOptions": {
+        "authProtocol": "default"
+    },
+    "previewLimit": 50,
+    "server": "localhost",
+    "port": 3306,
+    "driver": "MySQL",
+    "name": "Project",
+    "database": "loa06212022",
+    "username": "root",
+    "password": ""
+}
